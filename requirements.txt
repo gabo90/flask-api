@@ -1,0 +1,10 @@
+asgiref
+uvicorn[standard]
+flask
+flask-smorest
+python-dotenv
+sqlalchemy
+flask-sqlalchemy
+flask-jwt-extended
+passlib
+flask-migrate
